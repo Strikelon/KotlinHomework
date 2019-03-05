@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin2App</string>
+    <string name="tv_title_string">Very important note</string>
+    <string name="tv_text_string">My very important note text with very important information</string>
+</resources>
