@@ -1,5 +1,6 @@
 package com.strikalov.kotlin2app.ui.main
 
 import com.strikalov.kotlin2app.data.entity.Note
+import com.strikalov.kotlin2app.ui.base.BaseViewState
 
-data class MainViewState(val notes: List<Note>)
+class MainViewState(val notes: List<Note>? = null, error: Throwable? = null) : BaseViewState<List<Note>?>(notes, error)

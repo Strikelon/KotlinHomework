@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "199613949356",
+    "firebase_url": "https://kotlin2app.firebaseio.com",
+    "project_id": "kotlin2app",
+    "storage_bucket": "kotlin2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199613949356:android:581ebe8e5c3c24f1",
+        "android_client_info": {
+          "package_name": "com.strikalov.kotlin2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199613949356-vb46l8j93ubifp5og16og6q81orran4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGEtsYc9ZVPsxK2J0sNRc5Q70Gzv7s5zM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
